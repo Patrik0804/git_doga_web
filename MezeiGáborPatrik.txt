@@ -1,0 +1,5 @@
+git init
+git config user.name "Patrik0804"
+git config user.email "mezei.gabor.patrik@szikszi-ozd.hu"
+git add *
+git commit -m "web, link és css"
